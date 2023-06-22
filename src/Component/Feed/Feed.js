@@ -1,10 +1,15 @@
 import React from 'react';
 import './Feed.css'
+import Share from '../Share/Share';
+import Post from '../Post/Post';
 
 const Feed = () => {
     return (
         <div className='feed'>
-            Feed
+           <div className='feedWrapper'>
+            <Share></Share>
+            <Post/>
+           </div>
         </div>
     );
 };

@@ -32,7 +32,7 @@ const TopBar = () => {
                     <span className='topBarIconBadge'>3</span>
                    </div>
             </div>
-            <img src='https://images.unsplash.com/photo-1621184455862-c163dfb30e0f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFzaGlvbiUyMGdpcmx8ZW58MHx8MHx8fDA%3D&w=1000&q=80' alt='' className='topBarImage'></img>
+            <img src='https://t3.ftcdn.net/jpg/02/48/15/86/360_F_248158608_0ErNeAWWx6GZVDCg66jNRoPGEhHCSpaJ.jpg' alt='' className='topBarImage'></img>
            </div>
         </div>
     );
